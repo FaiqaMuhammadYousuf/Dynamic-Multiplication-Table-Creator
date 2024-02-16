@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\c sharp\Dynamic Multiplication Table Creator\Dynamic Multiplication Table Creator\bin\Debug\Dynamic Multiplication Table Creator.exe.config
+C:\Users\User\Desktop\c sharp\Dynamic Multiplication Table Creator\Dynamic Multiplication Table Creator\bin\Debug\Dynamic Multiplication Table Creator.exe
+C:\Users\User\Desktop\c sharp\Dynamic Multiplication Table Creator\Dynamic Multiplication Table Creator\bin\Debug\Dynamic Multiplication Table Creator.pdb
+C:\Users\User\Desktop\c sharp\Dynamic Multiplication Table Creator\Dynamic Multiplication Table Creator\obj\Debug\Dynamic Multiplication Table Creator.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c sharp\Dynamic Multiplication Table Creator\Dynamic Multiplication Table Creator\obj\Debug\Dynamic Multiplication Table Creator.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c sharp\Dynamic Multiplication Table Creator\Dynamic Multiplication Table Creator\obj\Debug\Dynamic Multiplication Table Creator.exe
+C:\Users\User\Desktop\c sharp\Dynamic Multiplication Table Creator\Dynamic Multiplication Table Creator\obj\Debug\Dynamic Multiplication Table Creator.pdb
