@@ -19,7 +19,7 @@ namespace Dynamic_Multiplication_Table_Creator
 
             Console.WriteLine("Where will the table end?");
             int E_table = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Table Ends at : " + S_table);
+            Console.WriteLine("Table Ends at : " + E_table);
             Console.WriteLine("==========================");
             Console.WriteLine("\r");
 
